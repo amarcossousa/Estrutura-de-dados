@@ -29,4 +29,12 @@ Filas e Listas
 - 19/06 - Domingo -- 285 a 300
 - 20/06 - Exercicios e revisão
 
+Arvores
+- 06/06 - Segunda -- 86 a 101
+- 07/06 - terça -- 102 a 120
+- 08/06 - Quarta -- 121 a 129
+- 09/06 - Quinta -- Exercicios e revisão
+
+
+
 
