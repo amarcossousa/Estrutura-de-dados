@@ -1,7 +1,8 @@
-// INTRODUÇÃO
-// Tipos de dados int e float 
 #include<stdio.h>
 #include<stdlib.h>
+
+// INTRODUÇÃO
+// Tipos de dados int e float 
 
 int main()
 {
