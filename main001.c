@@ -14,7 +14,5 @@ int main()
 
 // Exemplo de implementação a partir do tipo de dados 
 
-
-
 // Tipo de dados abstratos TDA
 
