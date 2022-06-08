@@ -1,5 +1,5 @@
 // Uniões simples 
-// Estrutura basica de C conjunta de struct 
+// Estrutura union basica de C conjunta de struct 
 
 #define INTERGER 1
 #define REAL 2
