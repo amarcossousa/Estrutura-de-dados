@@ -4,6 +4,11 @@
 #define INTERGER 1
 #define REAL 2
 
+
+int main(){
+    return 0; //Somente para copilar
+}
+
 struct stint {
     int f3, f4;
 };
