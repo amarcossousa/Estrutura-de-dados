@@ -10,7 +10,8 @@ Introdução a estrura de dados
 
 Pilhas
 - 06/06 - Segunda -- 86 a 101
-- 07/06 - terça -- 102 a 120
+- 07/06 - te
+rça -- 102 a 120
 - 08/06 - Quarta -- 121 a 129
 - 09/06 - Quinta -- Exercicios e revisão
 
