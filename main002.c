@@ -26,3 +26,8 @@ char string[];
     return(i);
 }
 /* fim strlen */
+
+
+/*Escrever erxercios da pagina 55, 56 e 57,
+apos aula de c sobre estruturas*/
+
