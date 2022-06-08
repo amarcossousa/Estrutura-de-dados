@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+// Exercico em C de compreesão de atribuição de valores na função
 int a;
 int b;
 int main ()
@@ -10,4 +11,17 @@ int main ()
     return 0;
 }
 
-// Exercico em C de compreesão de atribuição de valores na função
+
+
+// Operações com strings de caracteres
+#define STRSIZE 90
+char string[STRSIZE];
+
+strlen(string)
+char string[];
+{
+    int i ;
+    for ( i = 0 ;  string[ i ] != ' \0 ' ; i++)
+    return(i);
+}
+/* fim strlen */
