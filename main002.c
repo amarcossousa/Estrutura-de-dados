@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <string.h>
 
 // Exercico em C de compreesão de atribuição de valores na função
 int a;
@@ -21,7 +22,7 @@ strlen(string)
 char string[];
 {
     int i ;
-    for ( i = 0 ;  string[ i ] != ' \0 ' ; i++)
+    for ( i = 0 ;  string[ i ] != '\0' ; i++)
     return(i);
 }
 /* fim strlen */
