@@ -16,3 +16,10 @@ int main()
 
 // Tipo de dados abstratos TDA
 
+// Vetores unidimensional
+/*
+int unid(){
+    int a [100];
+    for (i = 0; i < 100; a [i++] = 0);
+} // Não copila
+*/
