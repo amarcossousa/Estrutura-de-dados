@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <string.h>
 
-// Exercico em C de compreesão de atribuição de valores na função
+// Exercicio em C de compreensão de atribuição de valores na função
 int a;
 int b;
 int main ()
@@ -28,6 +28,6 @@ char string[];
 /* fim strlen */
 
 
-/*Escrever erxercios da pagina 55, 56 e 57,
-apos aula de c sobre estruturas*/
+/*Escrever exercicios da pagina 55, 56 e 57,
+após aula de c sobre estruturas*/
 
