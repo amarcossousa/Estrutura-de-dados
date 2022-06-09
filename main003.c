@@ -26,3 +26,5 @@ struct sample {
         struct stfloat y;
     } funion;
 };
+
+// Realizar exercicios das paginas 83, 84 e 85
