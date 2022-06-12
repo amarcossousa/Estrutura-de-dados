@@ -68,11 +68,35 @@ int *pund, *px;
 }/*fim popandtest*/
 
 
+// Motando operações PUSH
+push(ps, x)
+struct stack *ps;
+int x; 
+{
+    ps->items [++(ps->top)] = x;
+    return;
+} /* fim push */
+// SEM TRATAMENTO DE ERRO
+
+push (ps, x)
+struct stack *ps;
+int x;
+{
+    if (ps->top == STACKSIZE-1) {
+        printf("%s", "estouro de pilha");
+        exit(1);
+    }
+    else
+    ps->items[++(ps->top)] = x;
+    return;
+} /* Fim de push*/
+
+// Definido push com tratamento para vetor com STACKSIZE cheio
+/* Necessario função que continue a chamada depois da execusao
+caso essa venha a falhar quando vetor estiver cheio*/
 
 
-
-
-
+// Ver exercicios das paginas 109 e 110
 
 
 
