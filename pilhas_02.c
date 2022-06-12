@@ -1,4 +1,5 @@
 // Exemplo: INFIXO, POSFIXO E PREFIXO
+// Algoritmo de avaliação de forma POSFIXA
 #include<stdio.h>
 #define MAXCOLS 80
 int main()
