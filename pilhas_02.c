@@ -53,6 +53,10 @@ char symb;
 }
 
 
+// Rever formas INFIXA, POSFIXA e PREFIXA
+// Exercicios das paginas 129, 130 e 131
+
+
 
 
 
