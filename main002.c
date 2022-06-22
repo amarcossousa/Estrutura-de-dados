@@ -30,3 +30,4 @@ char string[];
 
 /*Escrever exercicios da pagina 55, 56 e 57,
 após aula de c sobre estruturas*/
+
